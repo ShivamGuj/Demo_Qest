@@ -1,0 +1,20 @@
+{
+  "name": "demo_qest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ngrok/ngrok": "^1.4.1",
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "gupshup-whatsapp-api": "^1.0.2",
+    "nodemon": "^3.1.7"
+  }
+}
